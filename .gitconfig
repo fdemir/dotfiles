@@ -1,0 +1,9 @@
+[user]
+  name = Furkan Demir
+  email = frndemir@gmail.com
+
+[github]
+  user = fdemir
+
+[init]
+	defaultBranch = main
